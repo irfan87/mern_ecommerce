@@ -1,0 +1,16 @@
+{
+	"name": "mern_proshop",
+	"version": "1.0.0",
+	"description": "MERN e-commerce web app",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server/server"
+	},
+	"keywords": [],
+	"author": "Ahmad Irfan Mohammad Shukri",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
